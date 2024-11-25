@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Data Analyst from Bihar, India</h3>
 
 <p align="center">
-<p align="center">
-  <img src="https://instadp.io/_next/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fvierdo.musicx%2Fprofile_picture&w=1920&q=75" alt="Instagram Profile Picture" width="150" style="border-radius:50%;">
+  <a href="https://instagram.com/vierdo.musicx" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vierdo.musicx Instagram Profile" width="150" style="border-radius:50%;">
+  </a>
 </p>
 
 <p align="left">
