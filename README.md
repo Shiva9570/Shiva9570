@@ -3,20 +3,9 @@
 
 <p align="center">
   <a href="https://instagram.com/vierdo.musicx" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vierdo.musicx Instagram Profile" width="150" style="border-radius:50%; animation: rotation 5s infinite linear;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vierdo.musicx Instagram Profile" width="150" style="border-radius:50%;">
   </a>
 </p>
-
-<style>
-  @keyframes rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-</style>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shiva9570&label=Profile%20views&color=0e75b6&style=flat" alt="shiva9570" />
@@ -48,7 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="whosumitmishraa" height="30" width="40" />
   </a>
   <a href="https://instagram.com/vierdo.musicx" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vierdo.musicx" height="30" width="40" style="animation: rotation 5s infinite linear;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vierdo.musicx" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/goflex.records" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goflex.records" height="30" width="40" />
