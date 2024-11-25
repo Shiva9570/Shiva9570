@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Data Analyst from Bihar, India</h3>
 
 <p align="center">
-  <img src="https://instadp.io/_next/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2FYOUR_INSTAGRAM_USERNAME%2Fprofile_picture&w=1920&q=75" alt="Instagram Profile Picture" width="150" style="border-radius:50%;">
+<p align="center">
+  <img src="https://instadp.io/_next/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fvierdo.musicx%2Fprofile_picture&w=1920&q=75" alt="Instagram Profile Picture" width="150" style="border-radius:50%;">
 </p>
 
 <p align="left">
