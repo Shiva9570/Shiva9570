@@ -90,6 +90,3 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva9570&show_icons=true&locale=en&layout=compact" alt="shiva9570" />
-</p>
