@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibendra Mishra</h1>
-<h3 align="center">A passionate Data Analyst from Bihar, India</h3>
+<h3 align="center">A passionate Java Full Stack Devloper from Bihar, India</h3>
 
 <p align="center">
   <a href="https://instagram.com/vierdo.musicx" target="_blank">
