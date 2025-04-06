@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shiva9570](https://github.com/Shiva9570)
 
-- 💬 Ask me about **Music production, Data science, Graphic design**
+- 💬 Ask me about **Music production, Java FullStack Dev. Designing**
 
 - 📫 How to reach me **shivendra9570.mishra@gmail.com**
 
