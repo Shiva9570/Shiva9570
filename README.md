@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=shiva9570&label=Profile%20views&color=0e75b6&style=flat" alt="shiva9570" />
 </p>
 
-- 🔭 I’m currently working on [Attendance management project]([https://github.com/Shiva9570/attendance-managemen])
+- 🔭 I’m currently working on [Attendance management project](https://github.com/Shiva9570/attendance-managemen)
 
 - 👯 I’m looking to collaborate on **Music mastering, data science projects, UI design projects**
 
